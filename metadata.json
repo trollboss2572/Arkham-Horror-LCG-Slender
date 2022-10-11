@@ -1,0 +1,2597 @@
+{
+  "rootItems" : [ {
+    "type" : "Folder",
+    "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project",
+    "name" : "Slender Project",
+    "items" : [ {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda",
+      "name" : "Act and Agenda",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\Mental Fog.eon",
+        "name" : "Mental Fog",
+        "frontFace" : {
+          "type" : "Agenda",
+          "title" : "Mental Fog",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "3",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\Mental Fog-Front.jpg",
+          "index" : 2,
+          "deckId" : "a"
+        },
+        "backFace" : {
+          "type" : "Agenda",
+          "title" : "Rest and Relaxation",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "3",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\Mental Fog-Back.jpg",
+          "index" : 2,
+          "deckId" : "b"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "f434070a-79c6-410e-bf82-10193b81dca4",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\Silent Night.eon",
+        "name" : "Silent Night",
+        "frontFace" : {
+          "type" : "Agenda",
+          "title" : "Silent Night",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "2",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\Silent Night-Front.jpg",
+          "index" : 1,
+          "deckId" : "a"
+        },
+        "backFace" : {
+          "type" : "Agenda",
+          "title" : "Calm Disturbed",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "2",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\Silent Night-Back.jpg",
+          "index" : 1,
+          "deckId" : "b"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "bcc31b45-0980-4b09-b0dc-7b0654e9bcc5",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\Slender.eon",
+        "name" : "Slender",
+        "frontFace" : {
+          "type" : "Chaos",
+          "title" : "Slender",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "1",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\Slender-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "Chaos",
+          "title" : "Slender",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "1",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\Slender-Back.jpg"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "f02bf0e7-89e7-4026-8a54-eb1fb592643f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\The Eight Pages.eon",
+        "name" : "The Eight Pages",
+        "frontFace" : {
+          "type" : "Act",
+          "title" : "The Eight Pages",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "4",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Eight Pages-Front.jpg",
+          "index" : 1,
+          "deckId" : "a"
+        },
+        "backFace" : {
+          "type" : "Enemy",
+          "title" : "Slender",
+          "subtitle" : "The Pale-Faced Man",
+          "traits" : [ "Elite", "Ancient One", "Monster" ],
+          "encounterSetNumber" : "4",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Eight Pages-Back.jpg"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "e01bad71-9f71-4f96-a937-b88377c16caf",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\The Five Pages.eon",
+        "name" : "The Five Pages",
+        "frontFace" : {
+          "type" : "Act",
+          "title" : "The Five Pages",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "5",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Five Pages-Front.jpg",
+          "index" : 1,
+          "deckId" : "a"
+        },
+        "backFace" : {
+          "type" : "Act",
+          "title" : "Unleash the Beast",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "5",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Five Pages-Back.jpg",
+          "index" : 1,
+          "deckId" : "b"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "7e218c12-019e-43e9-9a28-44f640c16903",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\The Last Page.eon",
+        "name" : "The Last Page",
+        "frontFace" : {
+          "type" : "Act",
+          "title" : "The Last Page",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "7",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Last Page-Front.jpg",
+          "index" : 4,
+          "deckId" : "a"
+        },
+        "backFace" : {
+          "type" : "Act",
+          "title" : "Survival Instinct",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "7",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Last Page-Back.jpg",
+          "index" : 4,
+          "deckId" : "b"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "81dbd48b-e81d-443f-857d-06b415b087d6",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Act and Agenda\\The Three Pages.eon",
+        "name" : "The Three Pages",
+        "frontFace" : {
+          "type" : "Act",
+          "title" : "The Three Pages",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "6",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Three Pages-Front.jpg",
+          "index" : 3,
+          "deckId" : "a"
+        },
+        "backFace" : {
+          "type" : "Act",
+          "title" : "What's Going On Here?",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : "6",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Act and Agenda\\The Three Pages-Back.jpg",
+          "index" : 3,
+          "deckId" : "b"
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "aca1e9d2-f05a-4549-89d4-774a429c7d80",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations",
+      "name" : "All Other Locations",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\Abandoned Truck.eon",
+        "name" : "Abandoned Truck",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Abandoned Truck",
+          "subtitle" : "It Heard You",
+          "traits" : [ "Territory", "Shelter", "Ominous" ],
+          "encounterSetNumber" : "10",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Abandoned Truck-Front.jpg",
+          "locationSymbol" : "Moon",
+          "connections" : [ "Square" ],
+          "shroud" : 1,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Arkham Woods",
+          "subtitle" : "",
+          "traits" : [ "Territory" ],
+          "encounterSetNumber" : "10",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Abandoned Truck-Back.jpg",
+          "locationSymbol" : "Triangle",
+          "connections" : [ "Square" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "a1e430a4-0c58-4a8a-9739-a509cbcb7ae8",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\Dead Evergreen.eon",
+        "name" : "Dead Evergreen",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Dead Evergreen",
+          "subtitle" : "Topped with a Macabre Ornament",
+          "traits" : [ "Territory", "Woods" ],
+          "encounterSetNumber" : "12",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Dead Evergreen-Front.jpg",
+          "locationSymbol" : "Slash",
+          "connections" : [ "Square" ],
+          "shroud" : 2,
+          "clues" : 2,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Arkham Woods",
+          "subtitle" : "",
+          "traits" : [ "Territory" ],
+          "encounterSetNumber" : "12",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Dead Evergreen-Back.jpg",
+          "locationSymbol" : "Triangle",
+          "connections" : [ "Square" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "b9df8888-d59e-4fed-839e-c17bca5dba49",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\Forest Clearing (Real).eon",
+        "name" : "Forest Clearing",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Forest Clearing",
+          "subtitle" : "You're Sitting Ducks Here",
+          "traits" : [ "Central", "Territory" ],
+          "encounterSetNumber" : "9",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Forest Clearing (Real)-Front.jpg",
+          "locationSymbol" : "Square",
+          "connections" : [ "Circle", "Moon", "Diamond", "Slash", "T", "Hourglass" ],
+          "shroud" : 3,
+          "clues" : 4,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Forest Clearing",
+          "subtitle" : "",
+          "traits" : [ "Woods", "Territory" ],
+          "encounterSetNumber" : "9",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Forest Clearing (Real)-Back.jpg",
+          "locationSymbol" : "Square",
+          "connections" : [ "Circle", "Moon", "Diamond", "Slash", "T", "Hourglass" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "fd49b2bd-3fcc-4988-a3f8-25f2cccb264e",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\Oil Tankers.eon",
+        "name" : "Oil Tankers",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Oil Tankers",
+          "subtitle" : "Falling Apart in Scraps",
+          "traits" : [ "Territory", "Ominous", "Shelter" ],
+          "encounterSetNumber" : "11",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Oil Tankers-Front.jpg",
+          "locationSymbol" : "Hourglass",
+          "connections" : [ "Square" ],
+          "shroud" : 2,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Arkham Woods",
+          "subtitle" : "",
+          "traits" : [ "Territory" ],
+          "encounterSetNumber" : "11",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Oil Tankers-Back.jpg",
+          "locationSymbol" : "Hourglass",
+          "connections" : [ "Square" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "82df9609-dcc2-4dcc-b954-267334a0429c",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\The End of the Path.eon",
+        "name" : "The End of the Path",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "The End of the Path",
+          "subtitle" : "As Far as You've Investigated",
+          "traits" : [ "Woods", "Arkham", "Shelter" ],
+          "encounterSetNumber" : "8",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\The End of the Path-Front.jpg",
+          "locationSymbol" : "Circle",
+          "connections" : [ "Square" ],
+          "shroud" : 2,
+          "clues" : 0,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "The End of the Path",
+          "subtitle" : "",
+          "traits" : [ "Woods", "Arkham" ],
+          "encounterSetNumber" : "8",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\The End of the Path-Back.jpg",
+          "locationSymbol" : "Circle",
+          "connections" : [ "Square" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "f7d866e8-d73d-4db1-a756-2b8244847a71",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\Top of the Tree.eon",
+        "name" : "Top of the Tree",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Top of the Tree",
+          "subtitle" : "High Ground View",
+          "traits" : [ "Territory", "Ominous", "Woods" ],
+          "encounterSetNumber" : "14",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Top of the Tree-Front.jpg",
+          "locationSymbol" : null,
+          "connections" : [ ],
+          "shroud" : 1,
+          "clues" : 0,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Top of the Tree",
+          "subtitle" : "Long Way Down",
+          "traits" : [ "Territory", "Ominous", "Woods" ],
+          "encounterSetNumber" : "14",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Top of the Tree-Back.jpg",
+          "locationSymbol" : null,
+          "connections" : [ ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "c7c2eeed-649f-4553-a490-421a419cbe11",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\All Other Locations\\Tree Branches.eon",
+        "name" : "Tree Branches",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Tree Branches",
+          "subtitle" : "Getting Acrophobic",
+          "traits" : [ "Territory", "Woods" ],
+          "encounterSetNumber" : "13",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Tree Branches-Front.jpg",
+          "locationSymbol" : null,
+          "connections" : [ ],
+          "shroud" : 3,
+          "clues" : 0,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Tree Branches",
+          "subtitle" : "Perilous Ascent",
+          "traits" : [ "Territory", "Woods" ],
+          "encounterSetNumber" : "13",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\All Other Locations\\Tree Branches-Back.jpg",
+          "locationSymbol" : null,
+          "connections" : [ ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "7a6ce9ea-9329-4f86-8b63-9bbf2ac91f91",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Bathroom Corridor Locations",
+      "name" : "Bathroom Corridor Locations",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Bathroom Corridor Locations\\Bathrooms.eon",
+        "name" : "Bathrooms",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Bathrooms",
+          "subtitle" : "Covered in Rust",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "15",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Bathrooms-Front.jpg",
+          "locationSymbol" : "Diamond",
+          "connections" : [ "Square", "Cross" ],
+          "shroud" : 3,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Arkham Woods",
+          "subtitle" : "",
+          "traits" : [ "Territory" ],
+          "encounterSetNumber" : "15",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Bathrooms-Back.jpg",
+          "locationSymbol" : "Triangle",
+          "connections" : [ "Square" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "b4265f58-6cd3-48c9-aa57-b750cb6de4e8",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Bathroom Corridor Locations\\Dead End.eon",
+        "name" : "Dead End",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Dead End",
+          "subtitle" : "",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "19",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Dead End-Front.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : 4,
+          "clues" : 0,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Bathroom Corridor",
+          "subtitle" : "Only One Way Out",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "19",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Dead End-Back.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "0784aca3-7b2f-4d6f-b7c1-9860d1eb976d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Bathroom Corridor Locations\\Men's Bathroom.eon",
+        "name" : "Men's Bathroom",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Men's Bathroom",
+          "subtitle" : "The Walls have Eyes",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "18",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Men's Bathroom-Front.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : 3,
+          "clues" : 2,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Bathroom Corridor",
+          "subtitle" : "Only One Way Out",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "18",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Men's Bathroom-Back.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "72fbd38c-2c12-4423-8fa1-e99742ff5ccd",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Bathroom Corridor Locations\\Storeroom.eon",
+        "name" : "Storeroom",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Storeroom",
+          "subtitle" : "Ransacked by Critters",
+          "traits" : [ "Territory", "Shelter", "Storage" ],
+          "encounterSetNumber" : "17",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Storeroom-Front.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : 2,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Bathroom Corridor",
+          "subtitle" : "Only One Way Out",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "17",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Storeroom-Back.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "d047196e-8634-4eb0-81bd-4d78920645a2",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Bathroom Corridor Locations\\Women's Bathroom.eon",
+        "name" : "Women's Bathroom",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Women's Bathroom",
+          "subtitle" : "There's Something Here!",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "16",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Women's Bathroom-Front.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : 5,
+          "clues" : 0,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Bathroom Corridor",
+          "subtitle" : "Only One Way Out",
+          "traits" : [ "Territory", "Shelter" ],
+          "encounterSetNumber" : "16",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Bathroom Corridor Locations\\Women's Bathroom-Back.jpg",
+          "locationSymbol" : "Cross",
+          "connections" : [ "Diamond" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "57028948-5624-483b-b5fb-4e883ffe3945",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Heavily Wooded Forest Locations",
+      "name" : "Heavily Wooded Forest Locations",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest (Entrance).eon",
+        "name" : "Heavily-Wooded Forest",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "Where You Go to Disappear",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "20",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest (Entrance)-Front.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T", "Square" ],
+          "shroud" : 3,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Arkham Woods",
+          "subtitle" : "",
+          "traits" : [ "Territory" ],
+          "encounterSetNumber" : "20",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest (Entrance)-Back.jpg",
+          "locationSymbol" : "Triangle",
+          "connections" : [ "Square" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "ee17b295-8c7a-4554-a657-f023b00e1671",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(A Pile of Pages).eon",
+        "name" : "Heavily-Wooded Forest",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "A Pile of Pages",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "21",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(A Pile of Pages)-Front.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : 1,
+          "clues" : 4,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "Down the Rabbit Hole",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "21",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(A Pile of Pages)-Back.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "cfe30cdc-aad0-4604-9c73-a3208d5be96f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(An unnatural peace).eon",
+        "name" : "Heavily-Wooded Forest",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "An Unnatural Peace",
+          "traits" : [ "Woods" ],
+          "encounterSetNumber" : "24",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(An unnatural peace)-Front.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : 3,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "Down the Rabbit Hole",
+          "traits" : [ ],
+          "encounterSetNumber" : "24",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(An unnatural peace)-Back.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "de59469e-6088-47e6-be71-6196b71a92d3",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(Mounds of Dirt).eon",
+        "name" : "Heavily-Wooded Forest",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "Freshly Dug Earth",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "23",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(Mounds of Dirt)-Front.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : 6,
+          "clues" : 4,
+          "cluesPerInvestigator" : false
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Heavily Wooded-Forest",
+          "subtitle" : "Down the Rabbit Hole",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "23",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(Mounds of Dirt)-Back.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "4db0a06e-6d03-4a71-b93d-bd8f95956659",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(Perilous Path).eon",
+        "name" : "Heavily-Wooded Forest",
+        "frontFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "Perilous Path",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "22",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(Perilous Path)-Front.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : 2,
+          "clues" : 1,
+          "cluesPerInvestigator" : true
+        },
+        "backFace" : {
+          "type" : "Location",
+          "title" : "Heavily-Wooded Forest",
+          "subtitle" : "Down the Rabbit Hole",
+          "traits" : [ "Territory", "Woods", "Ominous" ],
+          "encounterSetNumber" : "22",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Heavily Wooded Forest Locations\\Heavily-Wooded Forest(Perilous Path)-Back.jpg",
+          "locationSymbol" : "T",
+          "connections" : [ "T" ],
+          "shroud" : null,
+          "clues" : null,
+          "cluesPerInvestigator" : false
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "f9501809-0662-4f17-aaeb-ebc27d6f0299",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Ominous Evils",
+      "name" : "Ominous Evils",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Ominous Evils\\Ominous Evils - Copy (2).eon",
+        "name" : "Ominous Evils",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Ominous Evils",
+          "subtitle" : null,
+          "traits" : [ "Omen" ],
+          "encounterSetNumber" : "90",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Ominous Evils\\Ominous Evils - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "b841b3d8-94b2-4397-8578-8d2e22481ab0",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Ominous Evils\\Ominous Evils - Copy.eon",
+        "name" : "Ominous Evils",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Ominous Evils",
+          "subtitle" : null,
+          "traits" : [ "Omen" ],
+          "encounterSetNumber" : "89",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Ominous Evils\\Ominous Evils - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "ae8bc47f-e7b5-4b37-8626-7dcf609203be",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Ominous Evils\\Ominous Evils.eon",
+        "name" : "Ominous Evils",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Ominous Evils",
+          "subtitle" : null,
+          "traits" : [ "Omen" ],
+          "encounterSetNumber" : "88",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Ominous Evils\\Ominous Evils-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "fa02d881-e0a4-4260-acbc-e69b0801732c",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages",
+      "name" : "Pages",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Amnesia).eon",
+        "name" : "Page (Amnesia)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Amnesia)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Madness" ],
+          "encounterSetNumber" : "32",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Amnesia)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "b6f5335c-7a81-47e7-b2e4-2be34708af1c",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Dark Memory).eon",
+        "name" : "Page (Dark Memory)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Dark Memory)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Fortune" ],
+          "encounterSetNumber" : "31",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Dark Memory)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "66bf58f2-eb01-4377-b6db-1902c1117ef4",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Dark Pact).eon",
+        "name" : "Page (Dark Pact)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Dark Pact)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Cursed" ],
+          "encounterSetNumber" : "30",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Dark Pact)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "f4465a67-3f6b-45d2-89f3-60ee2bc7a7ac",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Hour of Reckoning).eon",
+        "name" : "Page (Hour of Reckoning)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Hour of Reckoning)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Blessed" ],
+          "encounterSetNumber" : "29",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Hour of Reckoning)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "0b67c93e-843a-4afd-a9ab-5c37ef58d61d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Obsessive).eon",
+        "name" : "Page (Obsessive)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Obsessive)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Flaw" ],
+          "encounterSetNumber" : "28",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Obsessive)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "8a6f5db0-8fcc-40f9-821c-07d3b87105b5",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Paranoia).eon",
+        "name" : "Page (Paranoia)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Paranoia)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Madness" ],
+          "encounterSetNumber" : "27",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Paranoia)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "25348b38-73d1-4a91-91d9-54336b2ea868",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Surging Terrors).eon",
+        "name" : "Page (Surging Terrors)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Surging Terrors)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Hazard" ],
+          "encounterSetNumber" : "26",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Surging Terrors)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "0284e3d8-a644-4938-bca4-dff067c31afe",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Pages\\Page (Your Worst Nightmare).eon",
+        "name" : "Page (Your Worst Nightmare)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Page (Your Worst Nightmare)",
+          "subtitle" : null,
+          "traits" : [ "Page", "Bold" ],
+          "encounterSetNumber" : "25",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Pages\\Page (Your Worst Nightmare)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "4cecca1c-72e3-42a0-87b5-e1ac61cad9bb",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Rulebook",
+      "name" : "Rulebook",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Rulebook\\Interludes Page.eon",
+        "name" : "Interlude Page 1",
+        "frontFace" : {
+          "type" : "CampaignGuide7By5",
+          "title" : "Interlude Page 1",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Rulebook\\Interludes Page-Front.jpg",
+          "pageNumber" : 4
+        },
+        "backFace" : null,
+        "comments" : "Fix the resolution header please",
+        "ttsZoopGuid" : "7e9d7954-4fdc-455a-ab43-4096beec35b6",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Rulebook\\Page 2.eon",
+        "name" : "Page 2",
+        "frontFace" : {
+          "type" : "CampaignGuide7By5",
+          "title" : "Page 2",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Rulebook\\Page 2-Front.jpg",
+          "pageNumber" : 2
+        },
+        "backFace" : null,
+        "comments" : "Make an encounter card that puts the tablet and tentacle token in the bag. (Probably make it variable to the number of omens or cards the Keeper has.",
+        "ttsZoopGuid" : "1ee32b4a-07a2-4311-91a5-1c37e9c6e65b",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Rulebook\\Page 3.eon",
+        "name" : "Page 3",
+        "frontFace" : {
+          "type" : "CampaignGuide7By5",
+          "title" : "Page 3",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Rulebook\\Page 3-Front.jpg",
+          "pageNumber" : 3
+        },
+        "backFace" : null,
+        "comments" : "Need Feedback on the story (Too long?)\nShould \"It\" be allowed to view the Page deck?",
+        "ttsZoopGuid" : "bfd7fa02-7831-40c0-85b3-fc8f6eaebf1e",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Rulebook\\Slender.eon",
+        "name" : "Slender",
+        "frontFace" : {
+          "type" : "CampaignGuide7By5",
+          "title" : "Slender",
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Rulebook\\Slender-Front.jpg",
+          "pageNumber" : 1
+        },
+        "backFace" : null,
+        "comments" : "To do: See how to further space horizontal tabs and see how to increase the font size;\nFind a way to get the campaign guide to say scenario guide instead",
+        "ttsZoopGuid" : "c55c54c8-498a-41fc-9d08-1416e033d4c6",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set",
+      "name" : "Slender Encounter Set",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\A Victim - Copy (2).eon",
+        "name" : "A Victim",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "A Victim",
+          "subtitle" : "Something Seems Off",
+          "traits" : [ "Cultist", "Pact", "Humanoid" ],
+          "encounterSetNumber" : "37",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\A Victim - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "82926375-056c-4e82-ac83-51c2a039e0f8",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\A Victim - Copy.eon",
+        "name" : "A Victim",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "A Victim",
+          "subtitle" : "Something Seems Off",
+          "traits" : [ "Cultist", "Pact", "Humanoid" ],
+          "encounterSetNumber" : "36",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\A Victim - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "4083c62d-7fa5-4240-8f0e-b1b9955a42a8",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\A Victim.eon",
+        "name" : "A Victim",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "A Victim",
+          "subtitle" : "Something Seems Off",
+          "traits" : [ "Cultist", "Pact", "Humanoid" ],
+          "encounterSetNumber" : "35",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\A Victim-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "01948df2-1524-4dee-845a-5f1c683c260d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\A Voice from the Darkness - Copy.eon",
+        "name" : "A Voice from the Darkness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "A Voice from the Darkness",
+          "subtitle" : null,
+          "traits" : [ "Madness", "Occult" ],
+          "encounterSetNumber" : "34",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\A Voice from the Darkness - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "1bca9bad-1008-40a3-9c25-62fdf7b7acd3",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\A Voice from the Darkness.eon",
+        "name" : "A Voice from the Darkness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "A Voice from the Darkness",
+          "subtitle" : null,
+          "traits" : [ "Madness", "Occult" ],
+          "encounterSetNumber" : "33",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\A Voice from the Darkness-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "0e30f0d6-afbc-4289-91ae-cee8deb1da6b",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Compulsion (Familiarity).eon",
+        "name" : "Compulsion (Familiarity)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Compulsion (Familiarity)",
+          "subtitle" : null,
+          "traits" : [ "Terror", "Madness", "Real" ],
+          "encounterSetNumber" : "40",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Compulsion (Familiarity)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "1df4d4e8-e4c4-4d52-9a77-c734e8a584ee",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Compulsion (Safety).eon",
+        "name" : "Compulsion (Safety)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Compulsion (Safety)",
+          "subtitle" : null,
+          "traits" : [ "Terror", "Madness", "Real" ],
+          "encounterSetNumber" : "39",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Compulsion (Safety)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "5a7eb332-8dbf-4632-bb66-a2f99520900e",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Compulsion (Slugishness).eon",
+        "name" : "Compulsion (Slugishness)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Compulsion (Slugishness)",
+          "subtitle" : null,
+          "traits" : [ "Terror", "Madness", "Real" ],
+          "encounterSetNumber" : "38",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Compulsion (Slugishness)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "872fc4c9-cabd-4cd8-bcbd-54dcf3d1b730",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Confusion - Copy (2).eon",
+        "name" : "Confusion",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Confusion",
+          "subtitle" : null,
+          "traits" : [ "Madness" ],
+          "encounterSetNumber" : "45",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Confusion - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "09b3407f-a79a-4cb3-b789-35f34005bbae",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Confusion - Copy.eon",
+        "name" : "Confusion",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Confusion",
+          "subtitle" : null,
+          "traits" : [ "Madness" ],
+          "encounterSetNumber" : "44",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Confusion - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "6de7129c-3665-4419-a4ef-073b46bb04fc",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Confusion.eon",
+        "name" : "Confusion",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Confusion",
+          "subtitle" : null,
+          "traits" : [ "Madness" ],
+          "encounterSetNumber" : "43",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Confusion-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "7538f2f6-499a-45f1-aa58-2118735edfc2",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Conglomeration of Spheres - Copy.eon",
+        "name" : "Conglomeration of Spheres",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Conglomeration of Spheres",
+          "subtitle" : "Wait, I've Seen This Before",
+          "traits" : [ "Monster", "Abomination" ],
+          "encounterSetNumber" : "41",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Conglomeration of Spheres - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "d524f4fc-3764-4432-85e4-629debd0ff75",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Conglomeration of Spheres.eon",
+        "name" : "Conglomeration of Spheres",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Conglomeration of Spheres",
+          "subtitle" : "Wait, I've Seen This Before",
+          "traits" : [ "Monster", "Abomination" ],
+          "encounterSetNumber" : "42",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Conglomeration of Spheres-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "18856ad3-aba5-41e8-b7f9-05c20c3daafb",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Hazardous Terrain - Copy (2).eon",
+        "name" : "Hazardous Terrain",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Hazardous Terrain",
+          "subtitle" : null,
+          "traits" : [ "Hazard" ],
+          "encounterSetNumber" : "46",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Hazardous Terrain - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "53ddce32-cb8a-48c5-a758-b0ae2198db4b",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Hazardous Terrain - Copy.eon",
+        "name" : "Hazardous Terrain",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Hazardous Terrain",
+          "subtitle" : null,
+          "traits" : [ "Hazard" ],
+          "encounterSetNumber" : "47",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Hazardous Terrain - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "c1cf5f46-4253-485c-b8b0-1d22e73662af",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Hazardous Terrain.eon",
+        "name" : "Hazardous Terrain",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Hazardous Terrain",
+          "subtitle" : null,
+          "traits" : [ "Hazard" ],
+          "encounterSetNumber" : "48",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Hazardous Terrain-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "07a37b77-1550-44ce-b964-5a555a01eecc",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Lying in Wait - Copy (2).eon",
+        "name" : "Lying in Wait",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Lying in Wait",
+          "subtitle" : null,
+          "traits" : [ "Omen", "Power" ],
+          "encounterSetNumber" : "49",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Lying in Wait - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "ef86e0b7-5ab3-4a2c-a535-ec02b16b67ff",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Lying in Wait - Copy.eon",
+        "name" : "Lying in Wait",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Lying in Wait",
+          "subtitle" : null,
+          "traits" : [ "Omen", "Power" ],
+          "encounterSetNumber" : "50",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Lying in Wait - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "b83f2881-c96d-4803-8505-133cc2ad79a0",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Lying in Wait.eon",
+        "name" : "Lying in Wait",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Lying in Wait",
+          "subtitle" : null,
+          "traits" : [ "Omen", "Power" ],
+          "encounterSetNumber" : "51",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Lying in Wait-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "b7d5980f-4574-4e25-9bd8-353ab4305dfa",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Never Alone - Copy (2).eon",
+        "name" : "Never Alone",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Never Alone",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "52",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Never Alone - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "c78b8b5f-c71c-4497-861c-78c51416d1e4",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Never Alone - Copy (3).eon",
+        "name" : "Never Alone",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Never Alone",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "53",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Never Alone - Copy (3)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "8d2e7d12-0c09-4cc4-a15f-54930d871130",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Never Alone - Copy (4).eon",
+        "name" : "Never Alone",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Never Alone",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "55",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Never Alone - Copy (4)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "daa693f8-1062-411a-8457-06411df02a87",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Never Alone - Copy.eon",
+        "name" : "Never Alone",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Never Alone",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "54",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Never Alone - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "6b1a6986-4740-40c5-914d-e72fff024fc7",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Never Alone.eon",
+        "name" : "Never Alone",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Never Alone",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "56",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Never Alone-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "8e23ca45-5d84-46af-8d07-0a2ba79534e9",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Obscuring Fog (Alive) - Copy.eon",
+        "name" : "Obscuring Fog (Alive)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Obscuring Fog (Alive)",
+          "subtitle" : null,
+          "traits" : [ "Hazard", "" ],
+          "encounterSetNumber" : "57",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Obscuring Fog (Alive) - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "43af1ceb-bb10-40e8-b6a1-aeb51eb374da",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Obscuring Fog (Alive).eon",
+        "name" : "Obscuring Fog (Alive)",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Obscuring Fog (Alive)",
+          "subtitle" : null,
+          "traits" : [ "Hazard", "" ],
+          "encounterSetNumber" : "58",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Obscuring Fog (Alive)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "56d1aed6-5814-45dc-bedd-beb4017df4f3",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Predatory Stalker - Copy (2).eon",
+        "name" : "Predatory Stalker",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Predatory Stalker",
+          "subtitle" : "Preying on the Weak",
+          "traits" : [ "Monster", "Ghoul", "Backwoods", "Humanoid" ],
+          "encounterSetNumber" : "60",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Predatory Stalker - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "7fd4bacd-7ba0-4935-81e5-0cda7f48504d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Predatory Stalker - Copy.eon",
+        "name" : "Predatory Stalker",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Predatory Stalker",
+          "subtitle" : "Preying on the Weak",
+          "traits" : [ "Monster", "Ghoul", "Backwoods", "Humanoid" ],
+          "encounterSetNumber" : "59",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Predatory Stalker - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "25874d3e-b524-4b11-826c-88ce8331b86e",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Predatory Stalker.eon",
+        "name" : "Predatory Stalker",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Predatory Stalker",
+          "subtitle" : "Preying on the Weak",
+          "traits" : [ "Monster", "Ghoul", "Backwoods", "Humanoid" ],
+          "encounterSetNumber" : "60",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Predatory Stalker-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "04f8c410-034f-4126-ace2-471fbd8b4f1d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Sickness - Copy (2).eon",
+        "name" : "Sickness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Sickness",
+          "subtitle" : null,
+          "traits" : [ "Hazard", "Terror" ],
+          "encounterSetNumber" : "61",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Sickness - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "6d720b2f-85fc-4dd6-84e8-1de1807a42bf",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Sickness - Copy.eon",
+        "name" : "Sickness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Sickness",
+          "subtitle" : null,
+          "traits" : [ "Hazard", "Terror" ],
+          "encounterSetNumber" : "62",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Sickness - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "634ec350-442e-4e9c-8e8c-09e930fd660f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Sickness.eon",
+        "name" : "Sickness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Sickness",
+          "subtitle" : null,
+          "traits" : [ "Hazard", "Terror" ],
+          "encounterSetNumber" : "63",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Sickness-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "c0addf1f-e84c-4a65-8902-9e5838736340",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Slender-Limbed Shadow.eon",
+        "name" : "Slender-Limbed Shadow",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Slender-Limbed Shadow",
+          "subtitle" : "Lumbering Form",
+          "traits" : [ "Monster", "Abomination", "Elite", "Real" ],
+          "encounterSetNumber" : "64",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Slender-Limbed Shadow-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "Make sure this is in Slender's Secrets!",
+        "ttsZoopGuid" : "06fc59d1-931a-4075-a3ab-64cebdc53b1e",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Test for Weakness - Copy (2).eon",
+        "name" : "Test for Weakness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Test for Weakness",
+          "subtitle" : null,
+          "traits" : [ "Omen" ],
+          "encounterSetNumber" : "65",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Test for Weakness - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "7b2b0ad5-5786-4d7e-9790-6e3657bfd365",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Test for Weakness - Copy.eon",
+        "name" : "Test for Weakness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Test for Weakness",
+          "subtitle" : null,
+          "traits" : [ "Omen" ],
+          "encounterSetNumber" : "66",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Test for Weakness - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "9dcdef85-d5a6-4a5b-93e3-ea79458f8fd9",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Test for Weakness.eon",
+        "name" : "Test for Weakness",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Test for Weakness",
+          "subtitle" : null,
+          "traits" : [ "Omen" ],
+          "encounterSetNumber" : "67",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Test for Weakness-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "0ea913fa-bcbc-4c19-a9d2-2fd24e9d0b5f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Wolf - Copy (2).eon",
+        "name" : "Wolf",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Wolf",
+          "subtitle" : "",
+          "traits" : [ "Creature", "Backwoods" ],
+          "encounterSetNumber" : "68",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Wolf - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "a561950f-7686-4daa-95af-da53e5445f43",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Wolf - Copy.eon",
+        "name" : "Wolf",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Wolf",
+          "subtitle" : "",
+          "traits" : [ "Creature", "Backwoods" ],
+          "encounterSetNumber" : "69",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Wolf - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "407927c1-c9a5-4bdc-8f64-a48ef32c7ea4",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Wolf.eon",
+        "name" : "Wolf",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Wolf",
+          "subtitle" : "",
+          "traits" : [ "Creature", "Backwoods" ],
+          "encounterSetNumber" : "70",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Wolf-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "c75256f4-38a2-4f00-87fe-ae5a31311ae4",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Worsening Odds - Copy (2).eon",
+        "name" : "Worsening Odds",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Worsening Odds",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "71",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Worsening Odds - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "a7309bbb-3397-480d-9672-990974572af3",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Worsening Odds - Copy (3).eon",
+        "name" : "Worsening Odds",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Worsening Odds",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "72",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Worsening Odds - Copy (3)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "a8fbe483-52dc-4da1-a9a5-ff844b0f3d72",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Worsening Odds - Copy.eon",
+        "name" : "Worsening Odds",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Worsening Odds",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "73",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Worsening Odds - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "bd1c9d4e-9faa-4381-af64-7f136ae3252d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender Encounter Set\\Worsening Odds.eon",
+        "name" : "Worsening Odds",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Worsening Odds",
+          "subtitle" : null,
+          "traits" : [ "Curse", "Omen" ],
+          "encounterSetNumber" : "74",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender Encounter Set\\Worsening Odds-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "4b9be85f-f683-4607-88b4-8278312c863f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender's Secrets",
+      "name" : "Slender's Secrets",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender's Secrets\\Tendrils - Copy (2).eon",
+        "name" : "Tendrils",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Tendrils",
+          "subtitle" : null,
+          "traits" : [ "Power", "Pact", "Real" ],
+          "encounterSetNumber" : "75",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender's Secrets\\Tendrils - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "545876ad-9033-4879-a5f5-84abadcfcce0",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender's Secrets\\Tendrils - Copy.eon",
+        "name" : "Tendrils",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Tendrils",
+          "subtitle" : null,
+          "traits" : [ "Power", "Pact", "Real" ],
+          "encounterSetNumber" : "76",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender's Secrets\\Tendrils - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "e6c450c9-99ac-4ed8-9a58-14ad89422545",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender's Secrets\\Tendrils.eon",
+        "name" : "Tendrils",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Tendrils",
+          "subtitle" : null,
+          "traits" : [ "Power", "Pact", "Real" ],
+          "encounterSetNumber" : "77",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender's Secrets\\Tendrils-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "7662b555-494a-4b4f-9528-dfa0edfbf01a",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender's Secrets\\Vengeance - Copy.eon",
+        "name" : "Vengeance",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Vengeance",
+          "subtitle" : null,
+          "traits" : [ "Omen", "Pact" ],
+          "encounterSetNumber" : "78",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender's Secrets\\Vengeance - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "5f9b6043-6881-49d6-87de-5751a5523f5f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\Slender's Secrets\\Vengeance.eon",
+        "name" : "Vengeance",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Vengeance",
+          "subtitle" : null,
+          "traits" : [ "Omen", "Pact" ],
+          "encounterSetNumber" : "79",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\Slender's Secrets\\Vengeance-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "efb18ffd-5db7-4beb-ac7e-23d930c6178c",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    }, {
+      "type" : "Folder",
+      "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser",
+      "name" : "The Chaser",
+      "items" : [ {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Hooded Figure.eon",
+        "name" : "Hooded Figure",
+        "frontFace" : {
+          "type" : "Enemy",
+          "title" : "Hooded Figure",
+          "subtitle" : "Relentless Hunter",
+          "traits" : [ "Humanoid", "Possessed", "Elite" ],
+          "encounterSetNumber" : "80",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Hooded Figure-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "a536095f-035c-4d16-8f3c-1b6f0927ecb8",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Supernatural Stamina - Copy.eon",
+        "name" : "Supernatural Stamina",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Supernatural Stamina",
+          "subtitle" : null,
+          "traits" : [ "Power", "Trap" ],
+          "encounterSetNumber" : "81",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Supernatural Stamina - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "bbb6e5b7-4149-4f6c-a279-f4696f231c6f",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Supernatural Stamina.eon",
+        "name" : "Supernatural Stamina",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Supernatural Stamina",
+          "subtitle" : null,
+          "traits" : [ "Power", "Trap" ],
+          "encounterSetNumber" : "82",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Supernatural Stamina-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "61e828eb-8dbf-42b8-b2b4-8d46664e3320",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Unnatural Training - Copy.eon",
+        "name" : "Unnatural Training",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Unnatural Training",
+          "subtitle" : null,
+          "traits" : [ "Power", "Scheme" ],
+          "encounterSetNumber" : "83",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Unnatural Training - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "bc866c34-69ca-459b-9cd9-eed59e435203",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Unnatural Training.eon",
+        "name" : "Unnatural Training",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Unnatural Training",
+          "subtitle" : null,
+          "traits" : [ "Power", "Scheme" ],
+          "encounterSetNumber" : "84",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Unnatural Training-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "0b06a058-81c8-4bad-b306-6c1bd9992b3d",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Unrelenting - Copy (2).eon",
+        "name" : "Unrelenting",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Unrelenting",
+          "subtitle" : null,
+          "traits" : [ "Power", "Curse" ],
+          "encounterSetNumber" : "85",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Unrelenting - Copy (2)-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "e866ca52-6531-453c-b23c-3eefa2580c9c",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Unrelenting - Copy.eon",
+        "name" : "Unrelenting",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Unrelenting",
+          "subtitle" : null,
+          "traits" : [ "Power", "Curse" ],
+          "encounterSetNumber" : "86",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Unrelenting - Copy-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "51164799-b244-4aeb-b89d-a6a642bc3f3b",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      }, {
+        "type" : "Card",
+        "sourcePath" : "C:\\Users\\caspe\\OneDrive\\Documents\\Slender Project\\The Chaser\\Unrelenting.eon",
+        "name" : "Unrelenting",
+        "frontFace" : {
+          "type" : "Treachery",
+          "title" : "Unrelenting",
+          "subtitle" : null,
+          "traits" : [ "Power", "Curse" ],
+          "encounterSetNumber" : "87",
+          "encounterSetTotal" : 91,
+          "fullPathToImage" : "C:\\Users\\caspe\\OneDrive\\Documents\\TTS Slender Metadata\\Slender Project\\The Chaser\\Unrelenting-Front.jpg"
+        },
+        "backFace" : {
+          "type" : "EncounterCardBack",
+          "title" : null,
+          "subtitle" : null,
+          "traits" : [ ],
+          "encounterSetNumber" : null,
+          "encounterSetTotal" : null,
+          "fullPathToImage" : null
+        },
+        "comments" : "",
+        "ttsZoopGuid" : "a9254ec3-5f86-4a08-abbc-1d06f9691ff5",
+        "encounterSetNumberPattern" : "(\\d+)\\-(\\d+)"
+      } ]
+    } ]
+  } ]
+}
